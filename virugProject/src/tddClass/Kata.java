@@ -77,7 +77,21 @@ public class Kata {
         if(theNumber <= 2)return true;
         return false;
     }
+
 }
+
+//public boolean primeNumber(int digit){
+
+    //int numberOfFators = factor(digit);
+  //  if (factor <= 2) return true;
+// return false or
+
+//public boolean primeNumber(int digit){
+// (factorOf(digit) <=2) return true;
+//return false
+// or return factorOf(digit) <= 2;
+
+
 
 
 
